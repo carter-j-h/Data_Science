@@ -1,4 +1,4 @@
-# sfdat32
+# Carter-DataScience
 Repository for GA Data Science Class 2017
 
 I currently work at Marketo as a Solutions Architect
